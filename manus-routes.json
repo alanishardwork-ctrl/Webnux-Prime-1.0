@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "WebNuxPrime — Agência que Cria Sites Profissionais" },
+    { "path": "/index.html", "title": "WebNuxPrime — Agência que Cria Sites Profissionais" },
+    { "path": "/servicos.html", "title": "Serviços — WebNuxPrime" },
+    { "path": "/portfolio.html", "title": "Portfólio — WebNuxPrime" },
+    { "path": "/sobre.html", "title": "Sobre — WebNuxPrime" }
+  ]
+}
